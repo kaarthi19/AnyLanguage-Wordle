@@ -2,6 +2,7 @@ import { CONFIG } from './config'
 
 export const VALIDGUESSES = [
    'which',
+   'cutie',
     'there',
     'their',
     'about',
