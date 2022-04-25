@@ -22,6 +22,20 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
             {CONFIG.author}
           </a>{' '}
         </Trans>
+        <Trans i18nKey="aboutCodeSentence">
+         
+        </Trans>
+        <Trans
+          i18nKey="aboutDataSentence"
+          values={{ wordListSource: CONFIG.wordListSource }}
+        >
+          The words for this game were sourced from
+          <a href={CONFIG.wordListSourceLink} className="underline font-bold">
+            {CONFIG.wordListSource}
+          </a>
+          .
+        </Trans>
+        <Trans i18nKey="aboutOriginalSentence">
           You can also
           <a
             href="https://www.powerlanguage.co.uk/wordle/"
