@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wordleforsneha/static/css/main.771e2c9a.css",
-    "main.js": "/wordleforsneha/static/js/main.01ad0e70.js",
+    "main.css": "/wordleforsneha/static/css/main.c2bfda66.css",
+    "main.js": "/wordleforsneha/static/js/main.7c8745d4.js",
     "static/js/787.9fd50364.chunk.js": "/wordleforsneha/static/js/787.9fd50364.chunk.js",
     "static/media/BCSans-Bold.woff": "/wordleforsneha/static/media/BCSans-Bold.252ecf87ea37c93b293c.woff",
     "static/media/BCSans-BoldItalic.woff": "/wordleforsneha/static/media/BCSans-BoldItalic.73ed5137b2c4a42b754f.woff",
@@ -9,12 +9,12 @@
     "static/media/BCSans-Regular.woff": "/wordleforsneha/static/media/BCSans-Regular.0079ea8e42d4e81a13d2.woff",
     "index.html": "/wordleforsneha/index.html",
     "static/media/getFetch.cjs": "/wordleforsneha/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.771e2c9a.css.map": "/wordleforsneha/static/css/main.771e2c9a.css.map",
-    "main.01ad0e70.js.map": "/wordleforsneha/static/js/main.01ad0e70.js.map",
+    "main.c2bfda66.css.map": "/wordleforsneha/static/css/main.c2bfda66.css.map",
+    "main.7c8745d4.js.map": "/wordleforsneha/static/js/main.7c8745d4.js.map",
     "787.9fd50364.chunk.js.map": "/wordleforsneha/static/js/787.9fd50364.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.771e2c9a.css",
-    "static/js/main.01ad0e70.js"
+    "static/css/main.c2bfda66.css",
+    "static/js/main.7c8745d4.js"
   ]
 }
