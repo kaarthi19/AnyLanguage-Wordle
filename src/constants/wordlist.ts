@@ -1,7 +1,7 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
- 'pretty',
+ 'caring',
 ]
 
 if (CONFIG.normalization) {
