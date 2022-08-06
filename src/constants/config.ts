@@ -3,9 +3,9 @@ export const CONFIG = {
   language: 'Wordle for Sneha', // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Kaarthi', // Put your name here so people know who made this Wordle!
-  authorWebsite: 'YourLinkHere', // Put a link to your website or social media here
-  wordListSource: 'YourDictionarySource', // Describe the source material for your words here
-  wordListSourceLink: 'YourDictionaryLink', // Put a link to the source material for your words here
+  authorWebsite: 'https://kaarthi19.github.io', // Put a link to your website or social media here
+  wordListSource: 'Adorable and loving qualities of Sneha :)', // Describe the source material for your words here
+  wordListSourceLink: 'https://instagram.com/snxha?igshid=NmZiMzY2Mjc=', // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
